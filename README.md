@@ -255,16 +255,16 @@
 
 ## 산출물
 ### WBS
-<img src="exec/img/WBS.PNG" width="400">
+<img src="exec/img/WBS.png" width="400">
 
 ### ERD
-<img src="exec/img/ERD.PNG" width="400">
+<img src="exec/img/ERD.png" width="400">
 
 ### 기능 명세서
-<img src="exec/img/기능명세서1.PNG" width="400">
-<img src="exec/img/기능명세서2.PNG" width="400">
+<img src="exec/img/기능명세서1.png" width="400">
+<img src="exec/img/기능명세서2.png" width="400">
 
 ### API 명세서
-<img src="exec/img/API명세서1.PNG" width="400">
-<img src="exec/img/API명세서2.PNG" width="400">
+<img src="exec/img/API명세서1.png" width="400">
+<img src="exec/img/API명세서2.png" width="400">
 
