@@ -14,7 +14,6 @@
 * 주요 기술
   * **Frontend**
     * Flutter
-    * TypeScript
   * **Backend** 
     * Spring Boot
     * JPA
