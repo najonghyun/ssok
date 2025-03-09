@@ -1,4 +1,4 @@
-# <img src="exec/img/미니로고.png" width="30px" height="30px"> SSOK: 모바일 지갑 서비스
+# <img src="exec/img/미니로고.png" width="40px" height="20px"> SSOK: 모바일 지갑 서비스
 
 <div align=center>
 <br>
