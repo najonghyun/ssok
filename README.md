@@ -1,14 +1,61 @@
-# <img src="exec/img/미니로고.png" width="40px" height="20px"> SSOK: 모바일 지갑 서비스
+# <img src="exec/img/미니로고.png" height="25px"> SSOK — 모바일 지갑 &nbsp; <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+
+#### 사용자의 지갑에 들어가는 명함, 영수증, 카드, 신분증 등을 하나로 통합해 모바일로 간편하게 이용할 수 있는, 페이퍼리스(Paperless) 기반의 친환경 지갑 서비스입니다.
+
+### https://k9c107.p.ssafy.io/ (현재는 closed)
+
+---
+
+### 앱 / 팀 프로젝트 (SSAFY)
+
+### 2023.10.9 ~ 2023.11.17 (6주)
+
+<br>
+
+> **Flutter 기본 네이밍 컨벤션에 맞춰 기능별 전체 레이아웃 설계 및 구현**
+
+> **Nearby Connection을 활용하여 블루투스 기반 명함 실시간 전송 시스템 구축 (Bluetooth 기반 P2P 통신)**
+
+> **Flutter NFC_Manager의 Write/Read 태그 정보를 활용해 카드 결제 시스템 개발**
+
+---
+
+<br>
+
+### 💻 Overview
+
+<table>
+<tr>
+   <td align="center"><b>주민등록증</b></td>
+   <td align="center"><b>운전면허증</b></td>
+</tr>
+<tr>
+   <td align="center"><img src="/exec/gif/주민등록증 상세 조회.gif" width="70%"></td>
+   <td align="center"><img src="/exec/gif/운전면허증 상세 조회.gif" width="70%"></td>
+</tr>
+<tr>
+   <td align="center"><b>카드</b></td>
+   <td align="center"><b>명함</b></td>
+</tr>
+<tr>
+   <td align="center"><img src="/exec/gif/초기카드연동 시연영상.gif" width="70%"></td>
+   <td align="center"><img src="/exec/gif/명함목록.gif" width="85%"></td>
+</tr>
+<tr>
+   <td align="center"><b>영수증</b></td>
+   <td align="center"><b>포켓머니</b></td>
+</tr>
+<tr>
+   <td align="center"><img src="/exec/gif/영수증 시연영상 월별+상세조회.gif" width="70%"></td>
+   <td align="center"><img src="/exec/gif/포켓머니 캐릭터레벨업(기부진행).gif" width="70%"></td>
+</tr>
+</table>
 
 <div align=center>
 <br>
 <img src="exec/img/SSOK_로고.PNG" width="400">
-<br><br><br>
-
-프로젝트 기간 : 2023.10.9 ~ 2023.11.17 (6주)
-
-**지갑의 모든 것이 SSOK**
-
+   
+### 더 자세하게 알고 싶다면 [SSOK 사용설명서](https://bejewled-objective-132.notion.site/SSOK-6eb1b6ec75154f19bdbbe79ce8e270ba?pvs=4)
 </div>
 
 <br>
@@ -31,37 +78,6 @@
 - 사용자가 결제한 영수증에서 특정 물건을 구매한 기록이 있으면 탄소중립포인트가 적립됩니다.
 - 사용자는 생성된 포인트를 기부하거나 이체하여 사용할 수 있으며, 기부할 경우 SSOK 캐릭터의 레벨이 상승합니다.
 - 사용자는 신분증(주민등록증, 면허증)을 촬영하여 등록할 수 있고, 내용은 자동으로 정리되어 등록됩니다.
-
-<br>
-
-## 💻 화면 미리보기
-
-<table>
-<tr>
-   <td align="center"><b>주민등록증</b></td>
-   <td align="center"><b>운전면허증</b></td>
-</tr>
-<tr>
-   <td align="center"><img src="/exec/gif/주민등록증 상세 조회.gif" width="80%"></td>
-   <td align="center"><img src="/exec/gif/운전면허증 상세 조회.gif" width="80%"></td>
-</tr>
-<tr>
-   <td align="center"><b>카드</b></td>
-   <td align="center"><b>명함</b></td>
-</tr>
-<tr>
-   <td align="center"><img src="/exec/gif/초기카드연동 시연영상.gif" width="80%"></td>
-   <td align="center"><img src="/exec/gif/명함목록.gif" width="100%"></td>
-</tr>
-<tr>
-   <td align="center"><b>영수증</b></td>
-   <td align="center"><b>포켓머니</b></td>
-</tr>
-<tr>
-   <td align="center"><img src="/exec/gif/영수증 시연영상 월별+상세조회.gif" width="80%"></td>
-   <td align="center"><img src="/exec/gif/포켓머니 캐릭터레벨업(기부진행).gif" width="80%"></td>
-</tr>
-</table>
 
 <br>
 
@@ -151,8 +167,6 @@
 1. 📄 **전자영수증 기능**
    1. 영수증을 클릭할 경우 월별로 사용자가 발급받은 전자영수증 목록을 확인할 수 있습니다.
    2. 항목을 클릭할 경우 결제 시간, 승인 번호, 거래 유형, 할부 정보, 구매한 상품 항목 및 개수와 금액, 부가세액 및 가맹점명을 확인할 수 있습니다.
-
-### 더 자세하게 알고 싶다면 [SSOK 사용설명서](https://bejewled-objective-132.notion.site/SSOK-6eb1b6ec75154f19bdbbe79ce8e270ba?pvs=4)
 
 <br>
 
