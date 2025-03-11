@@ -2,7 +2,7 @@
 
 #### 사용자의 지갑에 들어가는 명함, 영수증, 카드, 신분증 등을 하나로 통합해 모바일로 간편하게 이용할 수 있는, 페이퍼리스(Paperless) 기반의 친환경 지갑 서비스입니다.
 
-### https://k9c107.p.ssafy.io/ (현재는 closed)
+### https://drive.google.com/file/d/1g3dMFG4GU4LZWEXnlLWGUFWlo0nGs4-n/view?usp=sharing (apk 파일)
 
 ---
 
